@@ -1,2 +1,2 @@
-# Projek-akhir_Donasi-online_09
+# proyekakhir-donasiamalonline-kelompok09
 Tugas projek akhir dari praktikum pemrograman web dasar
